@@ -1,0 +1,31 @@
+/*h1 {
+  padding: 20px;
+}*/
+
+.jumbotron {
+  margin: 50px;
+}
+
+.thumbnail {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.bio {
+  width: 70%;
+  margin: auto;
+}
+
+.blockquote {
+  width: 70%;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#wiki {
+  width: 70%;
+  padding-top: 20px;
+  margin: auto;
+
+}
